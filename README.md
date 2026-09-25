@@ -50,14 +50,6 @@ Projeto de site institucional com foco em design moderno, responsividade e apres
 
 ---
 
-## 📊 GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=M0rguinha&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=M0rguinha&layout=compact&theme=tokyonight)
-
----
-
 ## 📫 Contato
 
 🐙 [GitHub](https://github.com/M0rguinha)
