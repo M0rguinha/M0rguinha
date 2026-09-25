@@ -57,13 +57,13 @@ Estou construindo minha jornada na programação por meio de projetos práticos,
 
 Aplicação para gerenciamento de tarefas, com funcionalidades de criação, exibição e exclusão de atividades.
 
-🔗 [Acessar repositório](https://github.com/M0rguinha)
+🔗 [Acessar repositório]([https://github.com/M0rguinha](https://github.com/M0rguinha/todo-php)
 
 ### 💰 Calculadora de IMC com Python
 
 Aplicação que calcula o Índice de Massa Corporal (IMC) a partir do peso e da altura informados pelo usuário.
 
-🔗 [Acessar repositório]([https://github.com/M0rguinha](https://github.com/M0rguinha/calculadora-imc))
+🔗 [Acessar repositório]([https://github.com/M0rguinha](https://github.com/M0rguinha/calculadora-imc)
 
 ### 🧠 Quiz de Conhecimentos Gerais em PHP
 
