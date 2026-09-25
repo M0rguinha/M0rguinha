@@ -1,16 +1,67 @@
-## Hi there 👋
+# 👋 Olá, eu sou Morgan Rodrigues!
 
-<!--
-**M0rguinha/M0rguinha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Estudante de ADS | Desenvolvedor em formação
 
-Here are some ideas to get you started:
+Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** e técnico em Informática.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Estou construindo minha jornada na programação, desenvolvendo projetos práticos e aprimorando minhas habilidades em desenvolvimento de software.
+
+---
+
+## 🚀 Tecnologias
+
+### 💻 Linguagens de programação
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+
+### 🌐 Desenvolvimento Web
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+---
+
+## 📂 Projetos
+
+### 📝 To-Do List em PHP
+Aplicação para gerenciamento de tarefas, com funcionalidades de criação e exibição de atividades.
+
+### 📋 Kanban em PHP
+Projeto de gerenciamento de tarefas organizado em etapas, utilizando PHP e SQLite.
+
+### 💰 Controle de Gastos em Python
+Projeto de controle financeiro com geração de planilhas utilizando Python e OpenPyXL.
+
+### 💈 Barbearia Zero11
+Projeto de site institucional com foco em design moderno, responsividade e apresentação de serviços.
+
+---
+
+## 🎯 Atualmente
+
+- 📚 Aprimorando meus conhecimentos em PHP.
+- 🐍 Desenvolvendo projetos com Python.
+- 🌐 Explorando desenvolvimento web.
+- 🧠 Estudando lógica de programação e boas práticas.
+- 🚀 Construindo meu portfólio de projetos.
+
+---
+
+## 📊 GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=M0rguinha&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=M0rguinha&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Contato
+
+🐙 [GitHub](https://github.com/M0rguinha)
+
+---
+
+⭐ Obrigado por visitar meu perfil!
