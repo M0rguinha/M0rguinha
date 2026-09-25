@@ -2,17 +2,22 @@
 
 # 👋 Olá, eu sou Morgan Rodrigues!
 
-### 💻 Estudante de ADS | Desenvolvedor em formação
+### 💻 Desenvolvedor em formação | Estudante de ADS
 
-🎓 Técnico em Informática | 📚 Análise e Desenvolvimento de Sistemas
-
-Desenvolvendo projetos práticos, explorando novas tecnologias e evoluindo um pouco a cada dia.
+🎓 Técnico em Informática • 📚 Análise e Desenvolvimento de Sistemas
 
 <br>
 
 <a href="https://github.com/M0rguinha">
   <img src="https://img.shields.io/badge/GitHub-M0rguinha-181717?style=for-the-badge&logo=github" alt="GitHub">
 </a>
+<a href="https://github.com/M0rguinha?tab=repositories">
+  <img src="https://img.shields.io/badge/Projetos-181717?style=for-the-badge&logo=github&logoColor=white" alt="Projetos">
+</a>
+
+<br><br>
+
+*"Transformando aprendizado em projetos e ideias em código."*
 
 </div>
 
@@ -20,66 +25,105 @@ Desenvolvendo projetos práticos, explorando novas tecnologias e evoluindo um po
 
 ## 🧑‍💻 Sobre mim
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** e técnico em Informática.
+Olá! Sou Morgan Rodrigues, estudante de **Análise e Desenvolvimento de Sistemas (ADS)** e técnico em Informática.
 
-Estou construindo minha jornada na programação por meio de projetos práticos, buscando aprimorar minhas habilidades em desenvolvimento de software e aprender novas tecnologias.
+Estou construindo minha jornada na programação por meio de projetos práticos, buscando aprimorar minhas habilidades e explorar novas tecnologias.
 
-- 💻 Desenvolvendo aplicações com PHP e Python.
-- 🌐 Explorando desenvolvimento web.
-- 🧠 Estudando lógica de programação e boas práticas.
-- 🚀 Construindo meu portfólio e evoluindo como desenvolvedor.
+<div align="center">
+
+| 💻 Desenvolvimento | 📚 Aprendizado | 🚀 Objetivo |
+|:---:|:---:|:---:|
+| Criando aplicações | Evoluindo constantemente | Construindo meu portfólio |
+
+</div>
 
 ---
 
-## 🛠️ Tecnologias e ferramentas
+## 🛠️ Tecnologias
 
 ### 💻 Linguagens de programação
 
-<div>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C">
+<div align="center">
+
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C">
+
 </div>
 
 ### 🌐 Desenvolvimento web
 
-<div>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+<div align="center">
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+
 </div>
 
 ---
 
 ## 📂 Projetos em destaque
 
+<div align="center">
+
 ### 📝 To-Do List em PHP
+
+</div>
 
 Aplicação para gerenciamento de tarefas, com funcionalidades de criação, exibição e exclusão de atividades.
 
-🔗 [Acessar repositório]([https://github.com/M0rguinha](https://github.com/M0rguinha/todo-php)
+<div align="center">
+
+[![Repositório](https://img.shields.io/badge/🔗_Acessar_Projeto-181717?style=for-the-badge)](https://github.com/M0rguinha/todo-php)
+
+</div>
+
+---
+
+<div align="center">
 
 ### 💰 Calculadora de IMC com Python
 
+</div>
+
 Aplicação que calcula o Índice de Massa Corporal (IMC) a partir do peso e da altura informados pelo usuário.
 
-🔗 [Acessar repositório]([https://github.com/M0rguinha](https://github.com/M0rguinha/calculadora-imc)
+<div align="center">
+
+[![Repositório](https://img.shields.io/badge/🔗_Acessar_Projeto-3776AB?style=for-the-badge)](https://github.com/M0rguinha/calculadora-imc)
+
+</div>
+
+---
+
+<div align="center">
 
 ### 🧠 Quiz de Conhecimentos Gerais em PHP
 
+</div>
+
 Aplicação de perguntas e respostas com alternativas, correção automática e exibição da pontuação final.
 
-🔗 [Acessar repositório](https://github.com/M0rguinha/quiz-php)
+<div align="center">
+
+[![Repositório](https://img.shields.io/badge/🔗_Acessar_Projeto-777BB4?style=for-the-badge)](https://github.com/M0rguinha/quiz-php)
+
+</div>
 
 ---
 
 ## 🎯 Atualmente
 
-- 📚 Aprimorando meus conhecimentos em PHP.
-- 🐍 Desenvolvendo projetos com Python.
-- 🌐 Explorando desenvolvimento web.
-- 🧠 Estudando lógica de programação e boas práticas.
-- 🚀 Expandindo meu portfólio de projetos.
+<div align="center">
+
+| 📚 Estudos | 💻 Prática |
+|:---:|:---:|
+| Aprimorando PHP | Desenvolvendo projetos |
+| Explorando desenvolvimento web | Criando aplicações com Python |
+| Estudando lógica de programação | Expandindo meu portfólio |
+
+</div>
 
 ---
 
@@ -89,13 +133,15 @@ Aplicação de perguntas e respostas com alternativas, correção automática e 
 
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=M0rguinha&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub">
 
+<br><br>
+
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M0rguinha&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" alt="Linguagens mais utilizadas">
 
 </div>
 
 ---
 
-## 📫 Contato
+## 📫 Vamos nos conectar?
 
 <div align="center">
 
@@ -103,14 +149,10 @@ Aplicação de perguntas e respostas com alternativas, correção automática e 
   <img src="https://img.shields.io/badge/GitHub-M0rguinha-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
 
-</div>
-
----
-
-<div align="center">
+<br><br>
 
 ⭐ Obrigado por visitar meu perfil!
 
-**Sempre aprendendo, sempre evoluindo.** 🚀
+### 🚀 Sempre aprendendo, sempre evoluindo.
 
 </div>
