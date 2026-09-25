@@ -131,7 +131,6 @@ Aplicação de perguntas e respostas com alternativas, correção automática e 
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=M0rguinha&theme=tokyonight" alt="Estatísticas do GitHub">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=M0rguinha&theme=tokyonight&utcOffset=-3" alt="Horários produtivos">
 
 </div>
 
