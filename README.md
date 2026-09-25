@@ -127,20 +127,6 @@ Aplicação de perguntas e respostas com alternativas, correção automática e 
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=M0rguinha&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub">
-
-<br><br>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M0rguinha&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" alt="Linguagens mais utilizadas">
-
-</div>
-
----
-
 ## 📫 Vamos nos conectar?
 
 <div align="center">
