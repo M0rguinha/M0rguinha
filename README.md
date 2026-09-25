@@ -63,7 +63,7 @@ Aplicação para gerenciamento de tarefas, com funcionalidades de criação, exi
 
 Aplicação que calcula o Índice de Massa Corporal (IMC) a partir do peso e da altura informados pelo usuário.
 
-🔗 [Acessar repositório](https://github.com/M0rguinha)
+🔗 [Acessar repositório]([https://github.com/M0rguinha](https://github.com/M0rguinha/calculadora-imc))
 
 ### 🧠 Quiz de Conhecimentos Gerais em PHP
 
