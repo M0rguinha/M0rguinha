@@ -35,8 +35,6 @@ Projeto de gerenciamento de tarefas organizado em etapas, utilizando PHP e SQLit
 ### 💰 Controle de Gastos em Python
 Projeto de controle financeiro com geração de planilhas utilizando Python e OpenPyXL.
 
-### 💈 Barbearia Zero11
-Projeto de site institucional com foco em design moderno, responsividade e apresentação de serviços.
 
 ---
 
