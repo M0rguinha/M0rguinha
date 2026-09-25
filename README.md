@@ -6,11 +6,14 @@
 
 🎓 Técnico em Informática • 📚 Análise e Desenvolvimento de Sistemas
 
+Desenvolvendo projetos práticos, explorando novas tecnologias e evoluindo um pouco a cada dia.
+
 <br>
 
 <a href="https://github.com/M0rguinha">
   <img src="https://img.shields.io/badge/GitHub-M0rguinha-181717?style=for-the-badge&logo=github" alt="GitHub">
 </a>
+
 <a href="https://github.com/M0rguinha?tab=repositories">
   <img src="https://img.shields.io/badge/Projetos-181717?style=for-the-badge&logo=github&logoColor=white" alt="Projetos">
 </a>
@@ -29,13 +32,10 @@ Olá! Sou Morgan Rodrigues, estudante de **Análise e Desenvolvimento de Sistema
 
 Estou construindo minha jornada na programação por meio de projetos práticos, buscando aprimorar minhas habilidades e explorar novas tecnologias.
 
-<div align="center">
-
-| 💻 Desenvolvimento | 📚 Aprendizado | 🚀 Objetivo |
-|:---:|:---:|:---:|
-| Criando aplicações | Evoluindo constantemente | Construindo meu portfólio |
-
-</div>
+- 💻 Desenvolvendo aplicações com PHP e Python.
+- 🌐 Explorando desenvolvimento web.
+- 🧠 Estudando lógica de programação e boas práticas.
+- 🚀 Construindo meu portfólio e evoluindo como desenvolvedor.
 
 ---
 
@@ -65,49 +65,37 @@ Estou construindo minha jornada na programação por meio de projetos práticos,
 
 ## 📂 Projetos em destaque
 
-<div align="center">
-
 ### 📝 To-Do List em PHP
-
-</div>
 
 Aplicação para gerenciamento de tarefas, com funcionalidades de criação, exibição e exclusão de atividades.
 
 <div align="center">
 
-[![Repositório](https://img.shields.io/badge/🔗_Acessar_Projeto-181717?style=for-the-badge)](https://github.com/M0rguinha/todo-php)
+[![Acessar projeto](https://img.shields.io/badge/🔗_Acessar_Projeto-181717?style=for-the-badge)](https://github.com/M0rguinha/todo-php)
 
 </div>
 
 ---
 
-<div align="center">
-
 ### 💰 Calculadora de IMC com Python
-
-</div>
 
 Aplicação que calcula o Índice de Massa Corporal (IMC) a partir do peso e da altura informados pelo usuário.
 
 <div align="center">
 
-[![Repositório](https://img.shields.io/badge/🔗_Acessar_Projeto-3776AB?style=for-the-badge)](https://github.com/M0rguinha/calculadora-imc)
+[![Acessar projeto](https://img.shields.io/badge/🔗_Acessar_Projeto-3776AB?style=for-the-badge)](https://github.com/M0rguinha/calculadora-imc)
 
 </div>
 
 ---
 
-<div align="center">
-
 ### 🧠 Quiz de Conhecimentos Gerais em PHP
-
-</div>
 
 Aplicação de perguntas e respostas com alternativas, correção automática e exibição da pontuação final.
 
 <div align="center">
 
-[![Repositório](https://img.shields.io/badge/🔗_Acessar_Projeto-777BB4?style=for-the-badge)](https://github.com/M0rguinha/quiz-php)
+[![Acessar projeto](https://img.shields.io/badge/🔗_Acessar_Projeto-777BB4?style=for-the-badge)](https://github.com/M0rguinha/quiz-php)
 
 </div>
 
@@ -122,6 +110,28 @@ Aplicação de perguntas e respostas com alternativas, correção automática e 
 | Aprimorando PHP | Desenvolvendo projetos |
 | Explorando desenvolvimento web | Criando aplicações com Python |
 | Estudando lógica de programação | Expandindo meu portfólio |
+
+</div>
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=M0rguinha&theme=tokyonight" alt="Resumo do perfil">
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=M0rguinha&theme=tokyonight" alt="Linguagens por repositório">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=M0rguinha&theme=tokyonight" alt="Linguagens por commits">
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=M0rguinha&theme=tokyonight" alt="Estatísticas do GitHub">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=M0rguinha&theme=tokyonight&utcOffset=-3" alt="Horários produtivos">
 
 </div>
 
