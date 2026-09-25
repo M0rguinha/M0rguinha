@@ -27,13 +27,10 @@ Estou construindo minha jornada na programação, desenvolvendo projetos prátic
 ## 📂 Projetos
 
 ### 📝 To-Do List em PHP
-Aplicação para gerenciamento de tarefas, com funcionalidades de criação e exibição de atividades.
+Aplicação para gerenciamento de tarefas, com funcionalidades de criação, exibição e exclusão de atividades.
 
-### 📋 Kanban em PHP
-Projeto de gerenciamento de tarefas organizado em etapas, utilizando PHP e SQLite.
-
-### 💰 Controle de Gastos em Python
-Projeto de controle financeiro com geração de planilhas utilizando Python e OpenPyXL.
+### 💰 Calculadora de IMC com Python
+Aplicação do índice de massa corporal a partir de peso e da altura informado pelo usuário.
 
 
 ---
