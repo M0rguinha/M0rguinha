@@ -1,153 +1,162 @@
 <div align="center">
 
-# 👋 Olá, eu sou Morgan Rodrigues!
+# 👋 Olá, eu sou Morgan Rodrigues
 
-### 💻 Desenvolvedor em formação | Estudante de ADS
+### 💻 Desenvolvedor Full Stack em formação
 
-🎓 Técnico em Informática • 📚 Análise e Desenvolvimento de Sistemas
+**PHP • Python • JavaScript**
 
-Desenvolvendo projetos práticos, explorando novas tecnologias e evoluindo um pouco a cada dia.
+Desenvolvo aplicações web, sistemas e automações com foco em soluções práticas, código organizado e aprendizado contínuo.
 
-<br>
-
-<a href="https://github.com/M0rguinha">
-  <img src="https://img.shields.io/badge/GitHub-M0rguinha-181717?style=for-the-badge&logo=github" alt="GitHub">
-</a>
-
-<a href="https://github.com/M0rguinha?tab=repositories">
-  <img src="https://img.shields.io/badge/Projetos-181717?style=for-the-badge&logo=github&logoColor=white" alt="Projetos">
-</a>
-
-<br><br>
-
-*"Transformando aprendizado em projetos e ideias em código."*
+[![GitHub](https://img.shields.io/badge/GitHub-M0rguinha-181717?style=for-the-badge\&logo=github)](https://github.com/M0rguinha)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Morgan%20Rodrigues-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/morgan-rodrigues-205a31358/)
 
 </div>
 
 ---
 
-## 🧑‍💻 Sobre mim
+## 🚀 Sobre mim
 
-Olá! Sou Morgan Rodrigues, estudante de **Análise e Desenvolvimento de Sistemas (ADS)** e técnico em Informática.
+Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** e venho construindo minha experiência através de projetos práticos de desenvolvimento.
 
-Estou construindo minha jornada na programação por meio de projetos práticos, buscando aprimorar minhas habilidades e explorar novas tecnologias.
+Atualmente, meu foco está em **desenvolvimento web Full Stack**, trabalhando principalmente com **PHP, Python e JavaScript**.
 
-- 💻 Desenvolvendo aplicações com PHP e Python.
-- 🌐 Explorando desenvolvimento web.
-- 🧠 Estudando lógica de programação e boas práticas.
-- 🚀 Construindo meu portfólio e evoluindo como desenvolvedor.
+Tenho interesse em transformar ideias e necessidades reais em aplicações funcionais, desde páginas e sistemas web até APIs e automações.
+
+### Atualmente estou focado em:
+
+* 🐘 Desenvolvimento backend com **PHP**
+* 🐍 Desenvolvimento e automação com **Python**
+* ⚡ Desenvolvimento web com **JavaScript**
+* 🌐 **HTML e CSS**
+* 🗄️ **SQL e bancos de dados**
+* 🔌 Desenvolvimento e consumo de **APIs REST**
+* 🔧 Git e GitHub
+* 🧩 Desenvolvimento de aplicações Full Stack
 
 ---
 
 ## 🛠️ Tecnologias
 
-### 💻 Linguagens de programação
+### Linguagens
 
-<div align="center">
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square\&logo=php\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
 
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C">
+### Web
 
-</div>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square\&logo=css3\&logoColor=white)
 
-### 🌐 Desenvolvimento web
+### Backend & Dados
 
-<div align="center">
+![REST API](https://img.shields.io/badge/REST%20API-02569B?style=flat-square)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+### Ferramentas
 
-</div>
-
----
-
-## 📂 Projetos em destaque
-
-### 📝 To-Do List em PHP
-
-Aplicação para gerenciamento de tarefas, com funcionalidades de criação, exibição e exclusão de atividades.
-
-<div align="center">
-
-[![Acessar projeto](https://img.shields.io/badge/🔗_Acessar_Projeto-181717?style=for-the-badge)](https://github.com/M0rguinha/todo-php)
-
-</div>
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
 
 ---
 
-### 💰 Calculadora de IMC com Python
+## 💼 O que posso desenvolver
 
-Aplicação que calcula o Índice de Massa Corporal (IMC) a partir do peso e da altura informados pelo usuário.
+### 🌐 Sistemas Web
 
-<div align="center">
+Aplicações para gerenciamento de informações, usuários, tarefas, cadastros e processos.
 
-[![Acessar projeto](https://img.shields.io/badge/🔗_Acessar_Projeto-3776AB?style=for-the-badge)](https://github.com/M0rguinha/calculadora-imc)
+### 🔌 APIs
 
-</div>
+APIs REST para conectar aplicações, organizar dados e criar integrações entre sistemas.
 
----
+### 🤖 Automação
 
-### 🧠 Quiz de Conhecimentos Gerais em PHP
+Scripts e ferramentas em Python para automatizar tarefas repetitivas e processos.
 
-Aplicação de perguntas e respostas com alternativas, correção automática e exibição da pontuação final.
+### 🖥️ Sites e aplicações
 
-<div align="center">
-
-[![Acessar projeto](https://img.shields.io/badge/🔗_Acessar_Projeto-777BB4?style=for-the-badge)](https://github.com/M0rguinha/quiz-php)
-
-</div>
+Interfaces web responsivas para projetos pessoais, pequenos negócios e soluções personalizadas.
 
 ---
 
-## 🎯 Atualmente
+## 📂 Projetos
 
-<div align="center">
+### 🎲 Sorteador
 
-| 📚 Estudos | 💻 Prática |
-|:---:|:---:|
-| Aprimorando PHP | Desenvolvendo projetos |
-| Explorando desenvolvimento web | Criando aplicações com Python |
-| Estudando lógica de programação | Expandindo meu portfólio |
+Aplicação web desenvolvida em PHP para realizar sorteios a partir de uma lista de participantes.
 
-</div>
+**Tecnologias:** PHP • HTML • CSS • Cookies
 
----
-
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=M0rguinha&theme=tokyonight" alt="Resumo do perfil">
-
-<br><br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=M0rguinha&theme=tokyonight" alt="Linguagens por repositório">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=M0rguinha&theme=tokyonight" alt="Linguagens por commits">
-
-<br><br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=M0rguinha&theme=tokyonight" alt="Estatísticas do GitHub">
-
-
-</div>
+* Sorteio aleatório
+* Validação de entradas
+* Tratamento de dados
+* Tema claro e escuro
+* Persistência da preferência de tema
 
 ---
 
-## 📫 Vamos nos conectar?
+### 📝 To-Do List
+
+Aplicação de gerenciamento de tarefas desenvolvida com PHP.
+
+**Tecnologias:** PHP • HTML • CSS
+
+* Formulários
+* Sessões
+* Validação de dados
+* Manipulação de arrays
+* Tratamento de entradas
+
+---
+
+### 🧠 Quiz em PHP
+
+Aplicação de perguntas e respostas desenvolvida para praticar lógica de programação e desenvolvimento web com PHP.
+
+**Tecnologias:** PHP • HTML • CSS
+
+---
+
+### 🐍 Projetos com Python
+
+Projetos desenvolvidos para praticar lógica de programação, tratamento de dados e construção de aplicações utilizando Python.
+
+---
+
+## 📈 Em constante evolução
+
+Meu objetivo é continuar transformando estudos em **projetos cada vez mais completos**, trabalhando com aplicações reais, APIs, bancos de dados, automações e arquitetura de sistemas.
+
+```text
+Aprender → Construir → Testar → Melhorar → Repetir
+```
+
+---
+
+## 🤝 Aberto a oportunidades
+
+Estou aberto a oportunidades de:
+
+* 💼 Estágio em desenvolvimento
+* 👨‍💻 Projetos como freelancer
+* 🌐 Desenvolvimento de sistemas web
+* 🔌 Desenvolvimento de APIs
+* 🤖 Automação de tarefas
+* 🤝 Colaborações em projetos
+
+Se você tem uma ideia ou precisa transformar uma necessidade em uma solução web, podemos conversar.
+
+---
 
 <div align="center">
 
-<a href="https://github.com/M0rguinha">
-  <img src="https://img.shields.io/badge/GitHub-M0rguinha-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-</a>
+### 🚀 Vamos transformar ideias em código.
 
-<br><br>
+**Morgan Rodrigues**
 
-⭐ Obrigado por visitar meu perfil!
-
-### 🚀 Sempre aprendendo, sempre evoluindo.
+[![GitHub](https://img.shields.io/badge/GitHub-M0rguinha-181717?style=for-the-badge\&logo=github)](https://github.com/M0rguinha)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Morgan%20Rodrigues-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/morgan-rodrigues-205a31358/)
 
 </div>
