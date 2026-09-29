@@ -36,28 +36,6 @@ Tenho interesse em transformar necessidades reais em soluções funcionais, espe
 
 ---
 
-## ⭐ Linguagem mais utilizada
-
-<table>
-<tr>
-<td align="center">
-
-### 🐘 PHP
-
-[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
-
-**Minha principal linguagem atualmente**
-
-Desenvolvimento web • Backend • Projetos práticos
-
-</td>
-</tr>
-</table>
-
-> PHP aparece como minha principal linguagem no momento, especialmente pelos projetos web que venho desenvolvendo.
-
----
-
 ## 🛠️ Tecnologias
 
 <table>
