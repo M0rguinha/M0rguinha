@@ -1,38 +1,38 @@
 <div align="center">
 
-# 👋 Olá, eu sou Morgan Rodrigues
+# Morgan Rodrigues
 
-### 💻 Desenvolvedor Full Stack em formação
+### Desenvolvedor Full Stack em formação
 
 **PHP • Python • JavaScript**
 
-Desenvolvo aplicações web, sistemas e automações com foco em soluções práticas, código organizado e aprendizado contínuo.
+Desenvolvimento web, APIs e automações com foco em soluções práticas.
 
-[![GitHub](https://img.shields.io/badge/GitHub-M0rguinha-181717?style=for-the-badge\&logo=github)](https://github.com/M0rguinha)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Morgan%20Rodrigues-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/morgan-rodrigues-205a31358/)
+[![GitHub](https://img.shields.io/badge/GitHub-M0rguinha-181717?style=for-the-badge&logo=github)](https://github.com/M0rguinha)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Morgan%20Rodrigues-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/morgan-rodrigues-205a31358/)
 
 </div>
 
 ---
 
-## 🚀 Sobre mim
+## 👨‍💻 Sobre mim
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** e venho construindo minha experiência através de projetos práticos de desenvolvimento.
+Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)**, com foco em **desenvolvimento web Full Stack** e aprendizado por meio de projetos práticos.
 
-Atualmente, meu foco está em **desenvolvimento web Full Stack**, trabalhando principalmente com **PHP, Python e JavaScript**.
+Atualmente, trabalho meus estudos e projetos principalmente com **PHP, Python e JavaScript**, além de **HTML, CSS, SQL, APIs REST e Git/GitHub**.
 
-Tenho interesse em transformar ideias e necessidades reais em aplicações funcionais, desde páginas e sistemas web até APIs e automações.
+Tenho interesse em transformar necessidades reais em soluções funcionais, especialmente sistemas web, integrações, APIs e automações.
 
-### Atualmente estou focado em:
+---
 
-* 🐘 Desenvolvimento backend com **PHP**
-* 🐍 Desenvolvimento e automação com **Python**
-* ⚡ Desenvolvimento web com **JavaScript**
-* 🌐 **HTML e CSS**
-* 🗄️ **SQL e bancos de dados**
-* 🔌 Desenvolvimento e consumo de **APIs REST**
-* 🔧 Git e GitHub
-* 🧩 Desenvolvimento de aplicações Full Stack
+## 📚 Atualmente estudando
+
+- Desenvolvimento Full Stack com **PHP, Python e JavaScript**
+- **APIs REST** e integração entre aplicações
+- **SQL** e manipulação de dados
+- Desenvolvimento de interfaces com **HTML e CSS**
+- Versionamento e colaboração com **Git e GitHub**
+- **Automação com Python**
 
 ---
 
@@ -40,123 +40,83 @@ Tenho interesse em transformar ideias e necessidades reais em aplicações funci
 
 ### Linguagens
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square\&logo=php\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### Web
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square\&logo=css3\&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Backend & Dados
+### Dados, APIs e versionamento
 
-![REST API](https://img.shields.io/badge/REST%20API-02569B?style=flat-square)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
-
-### Ferramentas
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
+![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
 ## 💼 O que posso desenvolver
 
-### 🌐 Sistemas Web
-
-Aplicações para gerenciamento de informações, usuários, tarefas, cadastros e processos.
-
-### 🔌 APIs
-
-APIs REST para conectar aplicações, organizar dados e criar integrações entre sistemas.
-
-### 🤖 Automação
-
-Scripts e ferramentas em Python para automatizar tarefas repetitivas e processos.
-
-### 🖥️ Sites e aplicações
-
-Interfaces web responsivas para projetos pessoais, pequenos negócios e soluções personalizadas.
+- 🌐 **Sistemas Web** — aplicações para organizar informações, processos, cadastros e tarefas.
+- 🔌 **APIs REST** — serviços para comunicação entre aplicações e integração de dados.
+- 🤖 **Automações com Python** — scripts e soluções para reduzir tarefas repetitivas.
+- 🖥️ **Sites e aplicações web** — páginas e aplicações responsivas para projetos pessoais e negócios.
 
 ---
 
-## 📂 Projetos
+## 🚀 Projetos em destaque
 
-### 🎲 Sorteador
+### 🎲 [Sorteador](https://github.com/M0rguinha/sorteador)
 
-Aplicação web desenvolvida em PHP para realizar sorteios a partir de uma lista de participantes.
+Aplicação web em PHP para realização de sorteios a partir de uma lista de participantes.
 
-**Tecnologias:** PHP • HTML • CSS • Cookies
+### ✅ [To-Do PHP](https://github.com/M0rguinha/todo-php)
 
-* Sorteio aleatório
-* Validação de entradas
-* Tratamento de dados
-* Tema claro e escuro
-* Persistência da preferência de tema
+Projeto em PHP voltado para gerenciamento de tarefas e prática de desenvolvimento web.
 
----
+### 🧠 [Quiz PHP](https://github.com/M0rguinha/quiz-php)
 
-### 📝 To-Do List
+Aplicação em PHP criada para praticar lógica de programação e desenvolvimento web.
 
-Aplicação de gerenciamento de tarefas desenvolvida com PHP.
+### 🐍 Projetos Python
 
-**Tecnologias:** PHP • HTML • CSS
-
-* Formulários
-* Sessões
-* Validação de dados
-* Manipulação de arrays
-* Tratamento de entradas
+Projetos e exercícios desenvolvidos em Python para praticar programação, automação e construção de soluções práticas.
 
 ---
 
-### 🧠 Quiz em PHP
+## 🔭 Nexora Manager
 
-Aplicação de perguntas e respostas desenvolvida para praticar lógica de programação e desenvolvimento web com PHP.
+**Projeto futuro de maior porte em planejamento e desenvolvimento.**
 
-**Tecnologias:** PHP • HTML • CSS
+O **Nexora Manager** é uma proposta de plataforma web para centralizar gerenciamento, organização e recursos de projetos, com foco em criar uma solução mais completa e escalável.
 
----
-
-### 🐍 Projetos com Python
-
-Projetos desenvolvidos para praticar lógica de programação, tratamento de dados e construção de aplicações utilizando Python.
+> **Status:** 🚧 Em planejamento/desenvolvimento — ainda não concluído.
 
 ---
 
-## 📈 Em constante evolução
+## 🤝 Disponível para oportunidades
 
-Meu objetivo é continuar transformando estudos em **projetos cada vez mais completos**, trabalhando com aplicações reais, APIs, bancos de dados, automações e arquitetura de sistemas.
+Busco oportunidades para continuar evoluindo na área de desenvolvimento, especialmente em:
 
-```text
-Aprender → Construir → Testar → Melhorar → Repetir
-```
+- 💼 **Estágio em desenvolvimento**
+- 👨‍💻 **Projetos freelance**
+- 🌐 **Sistemas web**
+- 🔌 **APIs**
+- 🤖 **Automações**
 
----
-
-## 🤝 Aberto a oportunidades
-
-Estou aberto a oportunidades de:
-
-* 💼 Estágio em desenvolvimento
-* 👨‍💻 Projetos como freelancer
-* 🌐 Desenvolvimento de sistemas web
-* 🔌 Desenvolvimento de APIs
-* 🤖 Automação de tarefas
-* 🤝 Colaborações em projetos
-
-Se você tem uma ideia ou precisa transformar uma necessidade em uma solução web, podemos conversar.
+Se você procura alguém em formação, com foco prático e interesse em transformar problemas em soluções digitais, estou aberto a novos projetos e oportunidades.
 
 ---
 
 <div align="center">
 
-### 🚀 Vamos transformar ideias em código.
+### Vamos transformar ideias em código.
 
 **Morgan Rodrigues**
 
-[![GitHub](https://img.shields.io/badge/GitHub-M0rguinha-181717?style=for-the-badge\&logo=github)](https://github.com/M0rguinha)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Morgan%20Rodrigues-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/morgan-rodrigues-205a31358/)
+[GitHub](https://github.com/M0rguinha) • [LinkedIn](https://www.linkedin.com/in/morgan-rodrigues-205a31358/)
 
 </div>
