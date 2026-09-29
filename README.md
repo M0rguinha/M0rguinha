@@ -38,23 +38,86 @@ Tenho interesse em transformar necessidades reais em soluções funcionais, espe
 
 ## 🛠️ Tecnologias
 
-### Linguagens
+<table>
+<tr>
+<td align="center" width="25%">
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+### 🐘 PHP
 
-### Web
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+**Backend • Web**
 
-### Dados, APIs e versionamento
+</td>
+<td align="center" width="25%">
 
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
-![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+### 🐍 Python
+
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+
+**Automação • Backend**
+
+</td>
+<td align="center" width="25%">
+
+### ⚡ JavaScript
+
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/docs/Web/JavaScript)
+
+**Web • Interatividade**
+
+</td>
+<td align="center" width="25%">
+
+### 🌐 HTML
+
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/docs/Web/HTML)
+
+**Estrutura • Web**
+
+</td>
+</tr>
+
+<tr>
+<td align="center" width="25%">
+
+### 🎨 CSS
+
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/docs/Web/CSS)
+
+**Estilo • Responsividade**
+
+</td>
+<td align="center" width="25%">
+
+### 🗄️ SQL
+
+[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)](https://www.w3schools.com/sql/)
+
+**Dados • Consultas**
+
+</td>
+<td align="center" width="25%">
+
+### 🔌 REST API
+
+[![REST](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)](https://developer.mozilla.org/docs/Glossary/REST)
+
+**Integração • Serviços**
+
+</td>
+<td align="center" width="25%">
+
+### 🔧 Git & GitHub
+
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+
+**Versionamento • Código**
+
+</td>
+</tr>
+</table>
 
 ---
 
