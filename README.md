@@ -150,16 +150,6 @@ Projetos e exercícios desenvolvidos em Python para praticar programação, auto
 
 ---
 
-## 🔭 Nexora Manager
-
-**Projeto futuro de maior porte em planejamento e desenvolvimento.**
-
-O **Nexora Manager** é uma proposta de plataforma web para centralizar gerenciamento, organização e recursos de projetos, com foco em criar uma solução mais completa e escalável.
-
-> **Status:** 🚧 Em planejamento/desenvolvimento — ainda não concluído.
-
----
-
 ## 🤝 Disponível para oportunidades
 
 Busco oportunidades para continuar evoluindo na área de desenvolvimento, especialmente em:
