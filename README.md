@@ -1,78 +1,175 @@
 <div align="center">
-Morgan Rodrigues
-Desenvolvedor Full Stack em formação
 
-PHP • Python • JavaScript
+# Morgan Rodrigues
 
-Sistemas web, APIs e automações com foco em resolver problemas reais.
+### Desenvolvedor Full Stack em formação
 
-GitHub LinkedIn E-mail
+**PHP • Python • JavaScript**
+
+Desenvolvimento web, APIs e automações com foco em soluções práticas.
+
+[![GitHub](https://img.shields.io/badge/GitHub-M0rguinha-181717?style=for-the-badge&logo=github)](https://github.com/M0rguinha)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Morgan%20Rodrigues-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/morgan-rodrigues-205a31358/)
 
 </div>
-👨‍💻 Sobre mim
 
-Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) e aprendo desenvolvimento Full Stack construindo projetos na prática.
+---
 
-Meu foco hoje é PHP, Python e JavaScript, junto com SQL, APIs REST e Git/GitHub. Gosto de pegar um problema do dia a dia, como organizar tarefas, sortear participantes ou automatizar uma rotina repetitiva, e transformar em algo que funciona.
+## 👨‍💻 Sobre mim
 
-🎯 Foco atual
-Evoluir no desenvolvimento Full Stack (back-end com PHP e Python, front-end com JavaScript)
-Construir e consumir APIs REST
-Aprofundar em SQL e modelagem de dados
-Praticar automação com Python
-Melhorar a organização de código e o uso de Git e GitHub
-🛠️ Tecnologias
-Área	Tecnologias
-Back-end	Mostrar Imagem Mostrar Imagem
-Front-end	Mostrar Imagem Mostrar Imagem Mostrar Imagem
-Dados	Mostrar Imagem
-Integração	Mostrar Imagem
-Ferramentas	Mostrar Imagem Mostrar Imagem
-🚀 Projetos em destaque
-🎲 Sorteador
+Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)**, com foco em **desenvolvimento web Full Stack** e aprendizado por meio de projetos práticos.
 
-Aplicação web que realiza sorteios a partir de uma lista de participantes.
+Atualmente, trabalho meus estudos e projetos principalmente com **PHP, Python e JavaScript**, além de **HTML, CSS, SQL, APIs REST e Git/GitHub**.
 
-Stack: PHP · HTML · CSS Destaque: lógica de sorteio e tratamento de listas de entrada.
+Tenho interesse em transformar necessidades reais em soluções funcionais, especialmente sistemas web, integrações, APIs e automações.
 
-<!-- Adicione aqui um print ou GIF: ![Sorteador](link-da-imagem) -->
-✅ To-Do PHP
+---
 
-Gerenciador de tarefas para criar, acompanhar e concluir atividades.
+## 📚 Atualmente estudando
 
-Stack: PHP · HTML · CSS Destaque: operações de cadastro, listagem e atualização de dados.
+- Desenvolvimento Full Stack com **PHP, Python e JavaScript**
+- **APIs REST** e integração entre aplicações
+- **SQL** e manipulação de dados
+- Desenvolvimento de interfaces com **HTML e CSS**
+- Versionamento e colaboração com **Git e GitHub**
+- **Automação com Python**
 
-<!-- Adicione aqui um print ou GIF: ![To-Do](link-da-imagem) -->
-🧠 Quiz PHP
+---
 
-Quiz interativo para praticar lógica de programação e fluxo de uma aplicação web.
+## 🛠️ Tecnologias
 
-Stack: PHP · HTML · CSS Destaque: controle de perguntas, respostas e pontuação.
+<table>
+<tr>
+<td align="center" width="25%">
 
-<!-- Adicione aqui um print ou GIF: ![Quiz](link-da-imagem) -->
-🐍 Projetos em Python
+### 🐘 PHP
 
-Scripts e exercícios focados em automação e resolução de problemas.
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
 
-Em breve: link para os repositórios de Python em destaque.
+**Backend • Web**
 
-💼 O que posso desenvolver
-🌐 Sistemas web com PHP e SQL, como cadastros, listas, tarefas e painéis simples
-🔌 APIs REST para integrar e expor dados entre aplicações
-🤖 Automações com Python para reduzir tarefas repetitivas
-🖥️ Páginas responsivas com HTML, CSS e JavaScript
-🤝 Disponível para oportunidades
+</td>
+<td align="center" width="25%">
 
-Estou em busca de:
+### 🐍 Python
 
-💼 Estágio em desenvolvimento
-👨‍💻 Projetos freelance
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 
-Se você precisa de alguém em formação, com foco prático e vontade de aprender rápido, vamos conversar.
+**Automação • Backend**
+
+</td>
+<td align="center" width="25%">
+
+### ⚡ JavaScript
+
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/docs/Web/JavaScript)
+
+**Web • Interatividade**
+
+</td>
+<td align="center" width="25%">
+
+### 🌐 HTML
+
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/docs/Web/HTML)
+
+**Estrutura • Web**
+
+</td>
+</tr>
+
+<tr>
+<td align="center" width="25%">
+
+### 🎨 CSS
+
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/docs/Web/CSS)
+
+**Estilo • Responsividade**
+
+</td>
+<td align="center" width="25%">
+
+### 🗄️ SQL
+
+[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)](https://www.w3schools.com/sql/)
+
+**Dados • Consultas**
+
+</td>
+<td align="center" width="25%">
+
+### 🔌 REST API
+
+[![REST](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)](https://developer.mozilla.org/docs/Glossary/REST)
+
+**Integração • Serviços**
+
+</td>
+<td align="center" width="25%">
+
+### 🔧 Git & GitHub
+
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+
+**Versionamento • Código**
+
+</td>
+</tr>
+</table>
+
+---
+
+## 💼 O que posso desenvolver
+
+- 🌐 **Sistemas Web** — aplicações para organizar informações, processos, cadastros e tarefas.
+- 🔌 **APIs REST** — serviços para comunicação entre aplicações e integração de dados.
+- 🤖 **Automações com Python** — scripts e soluções para reduzir tarefas repetitivas.
+- 🖥️ **Sites e aplicações web** — páginas e aplicações responsivas para projetos pessoais e negócios.
+
+---
+
+## 🚀 Projetos em destaque
+
+### 🎲 [Sorteador](https://github.com/M0rguinha/sorteador)
+
+Aplicação web em PHP para realização de sorteios a partir de uma lista de participantes.
+
+### ✅ [To-Do PHP](https://github.com/M0rguinha/todo-php)
+
+Projeto em PHP voltado para gerenciamento de tarefas e prática de desenvolvimento web.
+
+### 🧠 [Quiz PHP](https://github.com/M0rguinha/quiz-php)
+
+Aplicação em PHP criada para praticar lógica de programação e desenvolvimento web.
+
+### 🐍 Projetos Python
+
+Projetos e exercícios desenvolvidos em Python para praticar programação, automação e construção de soluções práticas.
+
+---
+
+## 🤝 Disponível para oportunidades
+
+Busco oportunidades para continuar evoluindo na área de desenvolvimento, especialmente em:
+
+- 💼 **Estágio em desenvolvimento**
+- 👨‍💻 **Projetos freelance**
+- 🌐 **Sistemas web**
+- 🔌 **APIs**
+- 🤖 **Automações**
+
+Se você procura alguém em formação, com foco prático e interesse em transformar problemas em soluções digitais, estou aberto a novos projetos e oportunidades.
+
+---
 
 <div align="center">
-Vamos transformar ideias em código.
 
-GitHub • LinkedIn • E-mail
+### Vamos transformar ideias em código.
+
+**Morgan Rodrigues**
+
+[GitHub](https://github.com/M0rguinha) • [LinkedIn](https://www.linkedin.com/in/morgan-rodrigues-205a31358/)
 
 </div>
